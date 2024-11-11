@@ -1,0 +1,8 @@
+PyPDF2
+pytesseract
+opencv-python
+numpy
+Pillow
+transformers
+torch
+spacy
